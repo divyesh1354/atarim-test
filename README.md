@@ -5,7 +5,7 @@ A simple URL shortening service built with Laravel.
 ## Running Locally
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone ```https://github.com/divyesh1354/atarim-test.git```
    cd atarim-test
 
 2. Install dependencies:
@@ -31,7 +31,7 @@ A simple URL shortening service built with Laravel.
 
 ## Run Tests
 
-# Run the following command to execute the tests:
-```php artisan test
+### Run the following command to execute the tests:
+    ```php artisan test
 
 
