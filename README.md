@@ -33,7 +33,6 @@ A simple URL shortening service built with Laravel.
 ## Run Tests
 
 ### Run the following command to execute the tests:
-    ```bash
-    php artisan test
+    ```php artisan test
 
 
