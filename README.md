@@ -9,10 +9,10 @@ A simple URL shortening service built with Laravel.
    cd atarim-test
 
 2. Install dependencies:
-    ``` composer install
+    ```composer install
 
 2. Start the development server:
-    ``` php artisan serve
+    ```php artisan serve
 
 ## Endpoints
 
@@ -32,6 +32,6 @@ A simple URL shortening service built with Laravel.
 ## Run Tests
 
 # Run the following command to execute the tests:
-``` php artisan test
+```php artisan test
 
 
